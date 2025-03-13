@@ -5,12 +5,12 @@ const createForm = () => {
   
   return (
     <div>
-        <li>
-        <ul>Menu</ul>
-        <ul>Menu</ul>
-        <ul>Menu</ul>
-        <ul>Menu</ul>
-        </li>
+       <label htmlFor="">Nombre</label>
+       <input type="text" />
+       <label htmlFor=""></label>
+       <input type="text" />
+       <label htmlFor=""></label>
+       <input type="text" />
         </div>
   )
 }
